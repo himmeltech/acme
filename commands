@@ -1,0 +1,36 @@
+Install composer
+curl -sS https://getcomposer.org/installer | php
+mv composer.phar /usr/local/bin/composer
+which composer
+composer init
+cd /etc/nginx
+nano default
+service nginx restart
+packagist.org
+
+composer require filp/whoops
+composer dumpautoload
+
+php.net
+phptherightway.com
+
+Install PGAdmin
+https://github.com/FriendsOfPHP/PHP-CS-Fixer
+curl http://get.sensiolabs.org/php-cs-fixer.phar -o php-cs-fixer
+$ sudo chmod a+x php-cs-fixer
+$ sudo mv php-cs-fixer /usr/local/bin/php-cs-fixer
+php-cs-fixer fix PageController.php --level=psr2
+
+unsplash
+twig
+composer require "twig/twig:~1.0"
+
+use duncun3dc/blade
+
+Sign up For GitHub
+git init
+git add .
+git commit -m "Initial commit"
+
+
+
