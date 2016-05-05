@@ -31,6 +31,12 @@ Sign up For GitHub
 git init
 git add .
 git commit -m "Initial commit"
+Add Repoistry in Git
+git remote add origin https://github.com/himmeltech/acme.git
+git push -u origin master
+ali.khan@himmeltech.com
+$%Khan77&8
+
 
 
 
